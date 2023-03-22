@@ -7,7 +7,6 @@ const getUserData = async (token) => {
     }
   };
   const response = await axiosInstance.get(`/users`,config);
-  console.log("response: ", response);
   return response;
 }
 

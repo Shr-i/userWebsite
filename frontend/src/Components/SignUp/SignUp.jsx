@@ -51,7 +51,6 @@ const SignUp = () => {
   useEffect(() => {
     if( error || message ) {
       setOpen(true);
-      console.log("fnvbdkjfbvkj");
     }
     if (message) {
       setTimeout(() => {
