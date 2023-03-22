@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkstudent_form_app=self.webpackChunkstudent_form_app||[]).push([[252],{1252:function(n,t,e){e.r(t),e.d(t,{default:function(){return u}});e(2791);var r=e(184),u=function(){return(0,r.jsx)("div",{id:"contactContainer",children:(0,r.jsx)("h1",{children:" Contact "})})}}}]);
+//# sourceMappingURL=252.62ab493f.chunk.js.map

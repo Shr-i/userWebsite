@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkstudent_form_app=self.webpackChunkstudent_form_app||[]).push([[428],{8428:function(n,t,u){u.r(t);u(2791);var e=u(9434),s=u(7689),r=u(184);t.default=function(){return(0,e.v9)((function(n){return n.token}))?(0,r.jsx)(s.j3,{}):(0,r.jsx)(s.Fg,{to:"/signin"})}}}]);
+//# sourceMappingURL=428.92cf633a.chunk.js.map
