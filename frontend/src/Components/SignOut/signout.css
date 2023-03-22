@@ -1,0 +1,10 @@
+#signoutContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    min-height: 400px;
+    border: solid black 1px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 30px;
+}

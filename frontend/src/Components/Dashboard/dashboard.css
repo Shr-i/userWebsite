@@ -1,0 +1,46 @@
+
+#routeContainers {
+  display: flex;
+  justify-content: center;
+}
+
+
+#loadContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+
+#headContainers {
+  display: flex;
+  justify-content: center;
+}
+
+#locationContainer {
+  background: #E9EDC9;
+  min-height: 500px;  
+  border: solid black 1px;
+  padding-left: 16px;
+  padding-right: 16px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 40px;
+}
+
+#dashboardContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#userDetailCard {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100vw;
+  justify-content: center;
+}
+
+#userCard {
+  padding: 10px;
+}

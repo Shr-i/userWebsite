@@ -1,0 +1,35 @@
+#routeContainer {
+  display: flex;
+  min-height: 200px;
+  justify-content: center;
+  align-items: center;
+  border: solid black 1px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+#homeContainer {
+  min-height: 300px;
+  padding-left: 16px;
+  padding-right: 16px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 70px;
+}
+
+#headContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logAction {
+  padding: 50px;
+  margin: 30px;
+  border-radius: 5px;
+  background-color: white;  
+}
+
+.helperText {
+  margin-left: 10px;
+}

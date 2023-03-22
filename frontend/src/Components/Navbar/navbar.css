@@ -1,0 +1,27 @@
+#navbarContainer {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  background-color: black;
+  justify-content: flex-end;
+}
+
+.navLink {
+  text-decoration: none;
+  font-weight: bold;
+  padding-left: 10px;
+  font-size: x-large;
+  padding-right: 10px;
+  color: white;
+  padding-bottom: 5px;
+}
+
+.logActions {
+  text-decoration: none;
+  font-weight: bold;
+  padding-left: 10px;
+  font-size: x-large;
+  padding-right: 10px;
+  color: white;
+  padding-bottom: 5px;
+}
